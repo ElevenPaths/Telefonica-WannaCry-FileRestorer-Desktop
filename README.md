@@ -1,6 +1,6 @@
 ## Telefonica-WannaCry-FileRestorer-Desktop
 
-This application tries to restore possible files encrypted by WannaCry, in case that the encryption was not finished properly.
+Desktop version of the Wannacry File Restorer application. With this tool you can restore temporary files afected by WannaCry ramsomware. If the ramsomware could not finish the encryption process its possible to get back some of the information. This application simplifies the process finding WNCRYT files and restoring them for you.
 
 * Version: Alpha-RC1
 
